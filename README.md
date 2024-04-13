@@ -1,3 +1,4 @@
+![image](https://github.com/DASARIUDAYPRAKASH/Customer-Churn-Analysis/assets/130547847/9ef67a83-8721-46a4-8ff6-de52d1bec4db)
 Problem Statement:
 You are the data scientist at a telecom company named “Neo” whose customers
 are churning out to its competitors. You have to analyze the data of your
